@@ -1,0 +1,15 @@
+.error {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  bottom: 47%;
+  right: 38%;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: calc(16 / 14);
+  color: red;
+}
+.error p {
+  display: block;
+}
